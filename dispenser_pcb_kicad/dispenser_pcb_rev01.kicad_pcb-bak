@@ -11832,6 +11832,6 @@
   (gr_line (start 217.805 31.75) (end 67.31 31.75) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 217.805 117.475) (end 217.805 31.75) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 67.31 117.348) (end 217.805 117.475) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 67.31 31.75) (end 67.31 117.348) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 67.31 31.623) (end 67.31 117.348) (layer Edge.Cuts) (width 0.15))
 
 )
